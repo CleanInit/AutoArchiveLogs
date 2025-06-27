@@ -1,0 +1,5 @@
+{
+    "LOG_PATH": ".",
+    "ARCHIVE_DIR": "logs",
+    "CHECK_INTERVAL": 300
+}
